@@ -1,0 +1,41 @@
+
+.titulo-centralizado {
+	text-align: center;
+	font-size: color #ff0000;
+}
+
+p {
+	text-align: center;
+}
+
+h1{color: red;
+}
+
+h1 {text-align: center;
+}
+
+.itens {
+	font-size: 20px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 15%;
+	margin-right: 8%;
+}
+
+.Narguile-02 {
+	width: 30%;
+}
+
+.Texto01{background-color: #FFCCCC;
+}
+
+.Texto02{background-color: #FFCCCC;
+}	
+.Narguile-06{width: 100%;
+
+}
+b {color: red;
+}
